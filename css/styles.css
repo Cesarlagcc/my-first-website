@@ -1,0 +1,21 @@
+
+body{
+	background-color:lightblue;
+	}
+
+h1{
+	text-align: center;
+	font-family: Impact, sans-serif;
+	font-size: 50px;
+	color:white;
+}
+
+p, li{
+	font-family: Helvetica, sans-serif; 
+	font-size:18px;
+	line-height:24px;
+
+}
+
+
+
